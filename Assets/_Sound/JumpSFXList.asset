@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4da02e16b3904643aea8dccd04eeec0c, type: 3}
+  m_Name: JumpSFXList
+  m_EditorClassIdentifier: 
+  m_SaveUniqueID:
+    m_Save:
+      m_Save: 0
+    m_UniqueID:
+      m_SerializedID:
+        m_String: 9b803f1c-4e47-48f4-856b-19a7ca2dd516
+  m_IndexList:
+    rid: 6584873570732605488
+  references:
+    version: 2
+    RefIds:
+    - rid: 6584873570732605488
+      type: {class: IndexList, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Source:
+        - rid: 6584873570732605489
+        - rid: 6584873570732605496
+        - rid: 6584873570732605494
+        - rid: 6584873570732605492
+        m_TypeID:
+          m_String: audio-clip
+    - rid: 6584873570732605489
+      type: {class: IndexVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value:
+          rid: 6584873570732605491
+    - rid: 6584873570732605491
+      type: {class: ValueAudioClip, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: {fileID: 8300000, guid: 78274fd6a6489464fbf382e7401bff24, type: 3}
+    - rid: 6584873570732605492
+      type: {class: IndexVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value:
+          rid: 6584873570732605493
+    - rid: 6584873570732605493
+      type: {class: ValueAudioClip, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: {fileID: 8300000, guid: f5c38c9769f6640959fce7d370d0b00e, type: 3}
+    - rid: 6584873570732605494
+      type: {class: IndexVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value:
+          rid: 6584873570732605495
+    - rid: 6584873570732605495
+      type: {class: ValueAudioClip, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: {fileID: 8300000, guid: 1adf92aa2193a4523b56b2548f362282, type: 3}
+    - rid: 6584873570732605496
+      type: {class: IndexVariable, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value:
+          rid: 6584873570732605497
+    - rid: 6584873570732605497
+      type: {class: ValueAudioClip, ns: GameCreator.Runtime.Variables, asm: GameCreator.Runtime.Core}
+      data:
+        m_Breakpoint: 0
+        m_IsEnabled: 1
+        m_Value: {fileID: 8300000, guid: 6594c0f6844074955acf438f6599c2be, type: 3}
